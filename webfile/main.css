@@ -76,7 +76,8 @@
 
 .home{
     display: flex;
-    background: url("images/jeck.jpg") no-repeat center;
+    background: url("images/home.jpg") no-repeat;
+    background-size: cover;
     height: 100vh;
     color: #100;
     min-height: 500px;
