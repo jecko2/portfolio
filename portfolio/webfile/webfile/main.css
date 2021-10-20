@@ -518,9 +518,6 @@ section{
 .teams .carousel .card .box{
     color: black;
 }
-.teams .carousel .card:hover .box{
-    transform: scale(0.9);
-}
 .teams .carousel .card img{
     width: 150px;
     height: 150px;
