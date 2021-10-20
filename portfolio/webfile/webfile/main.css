@@ -510,12 +510,16 @@ section{
     background-color: #ccc;
     border-radius: 5px;
     text-align: center;
+    transition: all .3s ease;
+}
+.teams .carousel .card:hover{
+    background-color: crimson;
 }
 .teams .carousel .card .box{
     color: black;
 }
 .teams .carousel .card:hover .box{
-    transform: scale(1.15);
+    transform: scale(0.9);
 }
 .teams .carousel .card img{
     width: 150px;
