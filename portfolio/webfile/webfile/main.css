@@ -525,7 +525,7 @@ section{
     border: 5px solid crimson;
 }
 .teams .carousel .card:hover img{
-    border: 5px solid crimson;
+    border: 5px solid #fff;
 }
 .teams .carousel .card .box{
     display: flex;
