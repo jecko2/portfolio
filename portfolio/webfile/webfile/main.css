@@ -511,11 +511,20 @@ section{
     border-radius: 5px;
     text-align: center;
 }
+.teams .carousel .card .box{
+    color: black;
+}
+.teams .carousel .card:hover .box{
+    transform: scale(1.15);
+}
 .teams .carousel .card img{
     width: 150px;
     height: 150px;
     object-fit: cover;
     border-radius: 50%;
+    border: 5px solid crimson;
+}
+.teams .carousel .card:hover img{
     border: 5px solid crimson;
 }
 .teams .carousel .card .box{
